@@ -1,0 +1,21 @@
+.navbar {
+   background-position: center;
+    overflow: hidden; 
+    display: flex;
+    justify-content: space-around; 
+    padding: 10px 0;
+}
+
+.navbar .nav-item {
+    color: rgb(21, 8, 8); 
+    text-decoration: none; 
+    padding: 10px 15px; 
+    font-size: 18px; 
+    transition: background-color 0.3s, color 0.3s; 
+    border-radius: 5px; 
+}
+
+.navbar .nav-item:hover {
+    background-color: #e81616;
+    color: #ddc53e; 
+}

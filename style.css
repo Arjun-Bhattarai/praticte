@@ -1,0 +1,42 @@
+.login-page
+{  
+   height: 100px;
+    background:rgb(70, 70, 123);
+    padding: 50px 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(247, 113, 113, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+.login-page input[type="text"],
+.login-page input[type="password"]
+{
+
+    width: 150;
+    border-radius:50px;
+    width: 50%;
+    border-color: red;
+    text-align: center;
+
+}
+body
+{
+    width: 500px;
+    height: 50%;
+    overflow: hidden;
+    border: 100px solid whitesmoke;
+    margin: 50px auto;
+    padding: 60px;
+    border-radius: 500x;
+    border-color: rebeccapurple;
+    background-color: white;
+}
+.link-section{
+    width: 250px;
+    height: 40%;
+    margin: 5px auto;
+    border: 1px solid rgb(43, 43, 154);
+    padding: 20px 50px;
+    background-color:aquamarine;
+}
